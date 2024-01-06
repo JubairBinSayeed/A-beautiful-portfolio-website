@@ -4,6 +4,7 @@
 nav {
     display: flex;
     justify-content: space-between;
+    margin: 0 200px;
     
 }
 .a{
@@ -35,5 +36,31 @@ nav button{
     font-weight: 700;
     color: white;
     padding: 15px 35px;
-
 }
+.header{
+    background-color: #fff8f3;
+}
+.o{
+    background-color: #ff6800;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 15px 35px;
+}
+.bannner{
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+   display: flex;
+}
+.banner .profile-pic{
+    width: 500px;
+    
+}
+.banner{
+    display: flex;
+}
+
+
+
